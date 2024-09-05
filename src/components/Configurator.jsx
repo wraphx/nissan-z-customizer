@@ -21,7 +21,7 @@ const options = [
     { value: 13, label: 'Silk', image: '/options/silk.png' },
     { value: 14, label: 'Snake Skin', image: '/options/snake.png' },
     { value: 15, label: 'Solar Flare', image: '/options/flare.png' },
-    { value: 16, label: 'Dominator', image: '/options/dominator.png' },
+    { value: 16, label: 'Street Dominator', image: '/options/dominator.png' },
     { value: 17, label: 'Top Gun', image: '/options/topgun.png' },
     { value: 18, label: 'Water Explosion', image: '/options/explosion.png' },
     { value: 19, label: 'Wild West', image: '/options/wildwest.png' },
